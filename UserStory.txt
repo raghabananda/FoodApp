@@ -1,0 +1,35 @@
+Routes required:-
+
+1)Home
+2)Mangalorean
+3)Oriya
+4)American
+5)Signup
+6)Login
+7)User Profile
+8)Thankyou with bill
+9)cart
+
+Home:-
+
+ User has to view the redipe veraities.
+ 
+ User has to view recipe verities.
+1)Mangalorean
+2)Oriy
+3)American
+
+Interface required:
+1.	NavBar
+2.	Card-1
+3.	Card-2
+4.	Card-3
+
+Nav bar items:-
+1.	Brand Logo
+2.	Cart
+3.	Nav item-1
+4.	Nav item-2
+5.	Nav item-3
+
+
